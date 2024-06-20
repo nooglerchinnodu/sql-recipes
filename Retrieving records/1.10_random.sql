@@ -1,4 +1,0 @@
-SELECT ename, job
-FROM emp
-ORDER BY RAND()
-LIMIT 5;
